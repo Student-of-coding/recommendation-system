@@ -4,11 +4,11 @@
 
 *NAME*: VAIBHAV SINGH
 
-*INTERN ID*: CT06DK432
+*INTERN ID*: CTIS9834
 
 *DOMAIN*: MACHINE LEARNING
 
-*DURATION*: 6 WEEKS
+*DURATION*: 8 WEEKS
 
 *MENTOR*: NEELA SANTOSH
 
@@ -78,15 +78,15 @@ Or open `recommendation_system.ipynb` in **Google Colab** and choose *Runtime â†
 
 ## OUTPUT
 
-![Rating distribution](output/01_rating_distribution.png)
+![Rating distribution](01_rating_distribution.png)
 
 Exploratory view of the data: the distribution of rating values and the number of ratings per user, highlighting the sparsity typical of recommendation datasets.
 
-![Matrix factorization training curve](output/02_mf_training_curve.png)
+![Matrix factorization training curve](02_mf_training_curve.png)
 
 Training RMSE decreasing across epochs as the Matrix Factorization model learns the latent user and item factors.
 
-![Model comparison](output/03_model_comparison.png)
+![Model comparison](03_model_comparison.png)
 
 Side-by-side RMSE and MAE for Matrix Factorization vs. item-based Collaborative Filtering (lower is better).
 
